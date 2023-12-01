@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Track Lessons",
+    "version": "1.0",
+    "description": "Remove Track Lessons on clicked",
+    "permissions": [
+      "activeTab",
+      "scripting"
+  ],
+    "action": {
+      "default_title": "Dio Extension",
+      "default_popup": "/popup/popup.html"
+  }
+  }
